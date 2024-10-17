@@ -1,0 +1,10 @@
+HP   ：生命值上限 Max HP                    ATK：攻击力 ATK
+CR   ：暴击率 CRIT Rate                        HB ：治疗加成 Healing Bonus
+CD  ：暴击伤害 CRIT DMG                    IHB：受治疗加成 Incoming Healing Bonus
+EM  ：元素精通 Elemental Mastery       DEF：防御力 DEF
+ER   ：元素充能效率 Energy Recharge    SS  ：护盾强效 Shield Strength
+CDR：冷却缩减 CD Reduction               MS ：体力上限 Max Stamina
+DB  ：伤害加成 DMG Bonus
+
+注：此处将各种伤害加成统合为一个【伤害加成】以便计算。
+
